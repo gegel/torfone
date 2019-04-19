@@ -28,5 +28,7 @@ http://torfone.org/download/Torfone_Android_howto.pdf
 Binary files with GUI for Linux (386 and ARM) and Windows are also available on request by email as well as their source codes in the form of projects in the corresponding development environments. Later all source codes and binary files will be available via the links on the project page (now in development): 
 http://torfone.org
 
-Some technical information about the structure of the library and cryptographic protocols is given in the alpha draft:
+Some technical information about the structure of the library and cryptographic protocols is given in the alpha draft: white.pdf
+
+Van Gegel,  torfone@ukr.net
 

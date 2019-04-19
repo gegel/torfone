@@ -1,7 +1,7 @@
 Torfone
 =======
 
-Torfone is a utility that works under Tor transporting compressed voice packets. Effective voice queue and use of duplicate circuits significantly reduces speech latency now is comparable to satellite phones. In addition users who do not care about anonymity can switch to direct connection mode by performing a NAT traversal using the established Tor connection. This functionality provides unique server-less VOIP solution works without any online registration and prevents the collection of metadata.
+Torfone is an utility that works under Tor transporting compressed voice packets. Effective voice queue and use of duplicate circuits significantly reduces speech latency now is comparable to satellite phones. In addition users who do not care about anonymity can switch to direct connection mode by performing a NAT traversal using the established Tor connection. This functionality provides unique server-less VOIP solution works without any online registration and prevents the collection of metadata.
 
 Torfone provides its own level of obfuscation, encryption and authentication using modern cryptography.  Our protocol is not standard so you can ignore its presence fully trusting Tor. Nevertheless it provides reliable protection on primary direct connecting mode using the IP address and port as the destination of subscriber:
 
